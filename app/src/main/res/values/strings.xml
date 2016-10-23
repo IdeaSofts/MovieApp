@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="action_top">TOP RATED</string>
+    <string name="favorite">FAVORITE</string>
+    <string name="action_pop">MOST POPULAR</string>
+    <string name="connect_to_network">PLEASE CONNECT TO A NETWORK.</string>
+    <string name="loading">LOADING…</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="adult">ADULT</string>
+    <string name="video">VIDEO</string>
+    <string name="title">TITLE</string>
+    <string name="release_date">RELEASE DATE</string>
+    <string name="vote_count">RATING</string>
+    <string name="author">Author:</string>
+    <string name="review">REVIEW:</string>
+    <string name="no_favorites">YOU DIDN\'T BOOKMARK ANY MOVIE YET.</string>
+</resources>

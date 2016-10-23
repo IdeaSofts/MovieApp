@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.udacity.movieapp.activity.MainActivity">
+
+    <item
+        android:id="@+id/menuSortPop"
+        android:orderInCategory="100"
+        android:title="@string/action_pop"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuSortTop"
+        android:orderInCategory="100"
+        android:title="@string/action_top"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuFavorite"
+        android:orderInCategory="100"
+        android:title="@string/favorite"
+        app:showAsAction="never" />
+</menu>
